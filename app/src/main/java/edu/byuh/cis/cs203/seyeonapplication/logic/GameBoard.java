@@ -26,6 +26,8 @@ public class GameBoard {
         whoseTurnIsIt = Player.X;
     }
 
+
+
     /**
      * This method to move vertially and horizentally  according to input
      * @param move
